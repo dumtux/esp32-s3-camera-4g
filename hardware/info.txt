@@ -1,0 +1,4 @@
+Layers : 4
+Color : BLACK
+Size : 65.0mm ( w ) * 56.0mm ( h )
+Qty : 5
