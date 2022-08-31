@@ -1,5 +1,7 @@
 # ESP32-S3 Camera IO board with 4G module
 
+Sponsored by [FilzerTech](https://filzertech.com/)
+
 <img src="https://github.com/hotteshen/esp32-s3-camera-4g/blob/develop/doc/pcba.png?raw=true" style="width: 50%">
 
 ## Hardware Summary
