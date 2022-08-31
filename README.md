@@ -37,3 +37,5 @@ ESP32-S3-WROOM-1-N8R2 has 8MB of Flash memory and 2MB or QSPI mode PSRAM.
 Thus it needed to configure patition table and boot mode accordingly on menuconfig.
 
 For reference, copies of `sdkconfig` and `partitions.csv` files are included in [`doc`](./doc/) folder.
+
+<img src="https://github.com/hotteshen/esp32-s3-camera-4g/blob/develop/doc/testing.png?raw=true" style="width: 50%">
